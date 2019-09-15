@@ -1,0 +1,80 @@
+.container {
+    margin: auto 0;
+    max-width: 1000px;
+}
+.d-flex {
+    display: flex;
+}
+.col-1 {
+    width: 50%;
+    padding-top:50px;
+    padding-left: 130px;
+}
+.gets {
+    padding-top: 20px;
+    padding-left: 60px;
+}
+h3 {
+    padding-top:20px;
+    padding-left: 40px;
+}
+.col-2 {
+    width: 50%;
+}
+input {
+    border:none;
+    font-size: 15px;
+}
+.col-2 img {
+    width: 840px;
+    height: 650px;
+}
+.derk {
+    border-bottom: 1px solid rgb(236, 221, 221);
+    height: 45px;
+    width: 80%;
+}
+*{
+    box-sizing: border-box;
+}
+.check{
+    margin-top: 2rem;
+    justify-content: space-between;
+    display: flex;
+    padding-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.went{
+    cursor: pointer;
+}
+button{
+    margin-top: 100px;
+    margin-left: 100px;
+    padding: 15px;
+    width: 40%;
+    background-color: blue;
+    color: white;
+    border-radius:10rem;
+    border-color: blue;
+    font-size: 18px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    box-shadow: 0 4px 16px 0 rgba(55,74,251,.15);
+}
+p{
+    margin-top:100px;
+    text-align: center;
+}
+.img{
+    position: relative;
+}
+.show{
+    position: absolute;
+    top:45%;
+    left:55%;
+    color: white;
+    font-size: 1.5rem;
+}
